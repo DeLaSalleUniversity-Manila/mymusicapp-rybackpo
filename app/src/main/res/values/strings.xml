@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMusicApp</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="filenames">
+        <item>nogamenolife.mp3</item>
+        <item>onepunch.mp3</item>
+        <item>shokugeki.mp3</item>
+    </string-array>
+</resources>
